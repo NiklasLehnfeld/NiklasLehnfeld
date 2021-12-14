@@ -7,6 +7,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;... 👨‍💻 writing code.  
 &nbsp;&nbsp;&nbsp;&nbsp;... 📚 learning new stuff.  
 
+
+<!-- ![Niklas' github stats](https://github-readme-stats.vercel.app/api?username=NiklasLehnfeld&show_icons=true&theme=buefy) -->
+
+[![GitHub followers](https://img.shields.io/github/followers/NiklasLehnfeld?label=Followers&style=social)](https://github.com/NiklasLehnfeld/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NiklasLehnfeld" alt="yspreen" /> </p>
+
+
 ### 💌  I'm available via
 [![LinkedIn](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/lehnfeld/)
 [![Twitter](http://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/NLehnfeld)
