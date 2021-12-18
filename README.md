@@ -1,9 +1,6 @@
 
 # Hi there 👋  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=NiklasLehnfeld" alt="yspreen" /> <br/>
 
-## 💌 &nbsp;&nbsp; Contact 
-[![LinkedIn](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/lehnfeld/)&nbsp;&nbsp;&nbsp;&nbsp;[![E-Mail](https://img.shields.io/badge/%F0%9F%93%A7-E--Mail-red)](mailto:niklas@lehnfeld.net) 
-
 <br/>
 
 ## 🏗 &nbsp;&nbsp; Techstack
@@ -24,4 +21,9 @@
 
 [![Netzpolitik](https://img.shields.io/badge/Netzpolitik-GooglePlay-9cf)](https://play.google.com/store/apps/details?id=net.lehnfeld.netzpolitik)
 
+<br/>
+
+
+## 💌 &nbsp;&nbsp; Contact 
+[![LinkedIn](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/lehnfeld/)&nbsp;&nbsp;&nbsp;&nbsp;[![E-Mail](https://img.shields.io/badge/%F0%9F%93%A7-E--Mail-red)](mailto:niklas@lehnfeld.net) 
 
