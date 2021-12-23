@@ -17,7 +17,7 @@
 
 <br/>
 
-### ❤️ &nbsp;&nbsp; Projects
+## ❤️ &nbsp;&nbsp; Projects
 
 [![Netzpolitik](https://img.shields.io/badge/Netzpolitik-GooglePlay-9cf)](https://play.google.com/store/apps/details?id=net.lehnfeld.netzpolitik)
 
