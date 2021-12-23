@@ -19,11 +19,12 @@
 
 ## ❤️ &nbsp;&nbsp; Projects
 
-[![Netzpolitik](https://img.shields.io/badge/Netzpolitik-GooglePlay-9cf)](https://play.google.com/store/apps/details?id=net.lehnfeld.netzpolitik)
+[![Netzpolitik-Android](https://img.shields.io/badge/Netzpolitik-GooglePlay-green)](https://play.google.com/store/apps/details?id=net.lehnfeld.netzpolitik)<br/>
+[![Phi-Dog](https://img.shields.io/badge/Phi--Dog-In_Progress-orange)](https://phi-dog.de/)
 
 <br/>
 
 
 ## 💌 &nbsp;&nbsp; Contact 
-[![LinkedIn](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/lehnfeld/)&nbsp;&nbsp;&nbsp;&nbsp;[![E-Mail](https://img.shields.io/badge/%F0%9F%93%A7-E--Mail-red)](mailto:niklas@lehnfeld.net) 
+[![Website](https://img.shields.io/badge/%F0%9F%AA%90-lehnfeld.net-green)](https://lehnfeld.net/)&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/lehnfeld/)&nbsp;&nbsp;&nbsp;&nbsp;[![E-Mail](https://img.shields.io/badge/%F0%9F%93%A7-E--Mail-yellow)](mailto:niklas@lehnfeld.net)
 
